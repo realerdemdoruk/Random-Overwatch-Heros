@@ -7,4 +7,4 @@
 
 
 
-##### "https://overwatch-api.tekrop.fr/heroes" we get the API from the website and pressing the random key randomly lists the OVERWATCH characters
+##### "https://overwatch-api.tekrop.fr/heroes" we get the API from the website and pressing the random key randomly lists the Owerwatch characters
